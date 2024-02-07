@@ -7,3 +7,4 @@
 5. git status-текущее состояние гита
 6. git diff
 ## Lesson 2
+#List
