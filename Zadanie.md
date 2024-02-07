@@ -8,3 +8,4 @@
 6. git diff
 ## Lesson 2
 #List
+branch- вывести список всех веток
