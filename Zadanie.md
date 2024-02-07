@@ -9,3 +9,4 @@
 ## Lesson 2
 #List
 branch- вывести список всех веток
+git merge
