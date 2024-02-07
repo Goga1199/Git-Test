@@ -10,3 +10,4 @@
 #List
 branch- вывести список всех веток
 git log
+git merge
